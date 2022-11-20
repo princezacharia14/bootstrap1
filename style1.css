@@ -1,0 +1,185 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+body
+{
+    font-family: sans-serif;
+
+}
+#nav-bar
+{
+    position: sticky;
+    top: 0;
+    z-index: 10;
+}
+.navbar
+{
+    
+background-image: linear-gradient(to right,#a9a8a8,#a9a7aa);
+padding: 0 !important;
+}
+.navbar-brand img
+{
+    height: 50px;
+    padding-left: 20px;
+}
+/*--------------------nav bar ends-----------------------*/
+
+.my-para
+{
+    font-size: xx-large;
+    font-weight: 300;
+    text-align: center;
+    color: black;
+    padding-top: 10px;
+}
+.my-para2
+{
+    font-size: large;
+    font-weight: 250;
+    color: black;
+    padding-top: 80px;
+    
+   
+    }
+.my-para3
+{
+
+    font-size: large;
+    font-weight: 200;
+    color: black;
+    padding-top: 2px;
+    
+}
+.pic-1
+{
+    width: 30px;
+    padding-top: 10px;
+
+}
+
+.pic-2
+{
+    width: 70px;
+    padding-top: 10px;
+
+}
+
+.pic-3
+{
+    width: 50px;
+    padding-top: 10px;
+
+}
+
+.pic-4
+{
+    width: 70px;
+    padding-top: 10px;
+
+}
+
+.pic-5
+{
+    width: 70px;
+    padding-top: 10px;
+
+}
+
+.pic-6
+{
+    width: 30px;
+    padding-top: 10px;
+
+}
+
+.pic-7
+{
+    width: 30px;
+    padding-top: 10px;
+
+}
+
+.my-para4
+{
+
+    font-size: x-large;
+    font-weight: 300;
+    color: black;
+    padding-top: 50px;
+    
+}
+
+.my-para5
+{
+    font-size: large;
+    font-weight: 200;
+    color: black;
+    padding-top: 5px;
+
+}
+
+.pic-8
+{
+    width: 100px;
+    padding-top: 10px;
+
+}
+
+.pic-9
+{
+    width: 150px;
+    padding-top: 10px;
+
+}
+
+.pic-10
+{
+    width: 110px;
+    padding-top: 10px;
+
+}
+
+.my-para6
+{
+    font-size: large;
+    font-weight: 250;
+    color: black;
+    padding-top: 100px;
+}
+
+.my-para7
+{
+    font-size: large;
+    font-weight: 200;
+    color: black;
+    padding-top: 5px;
+
+}
+
+.pic-11
+{
+    width: 180px;
+    padding-top: 10px;
+
+}
+
+.pic-12
+{
+
+    width: 180px;
+    padding-top: 10px;
+
+}
+
+
+.nav
+{
+    padding-top: 200px;
+
+}
+
+
+
